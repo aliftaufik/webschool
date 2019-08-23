@@ -110,15 +110,20 @@ main a {
 .banner h1 {
     padding-top: 250px;
     font-size: 45px;
+    font-family: Righteous;
+}
+
+.banner h2 {
+    font-family: Verdana;
 }
 
 .banner h1, .banner h2 {
-    font-family: Verdana;
     text-align: center;
     color: #f1f1f1f1;
 }
 
 footer p {
+    font-family: Arial;
     text-align: center;
     padding: 20px;
     color: #12523f;
