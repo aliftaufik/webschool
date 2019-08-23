@@ -111,15 +111,16 @@ main a {
     padding-top: 250px;
     font-size: 45px;
     font-family: Righteous;
+    color: aqua;
 }
 
 .banner h2 {
     font-family: Verdana;
+    color: #f1f1f1f1;
 }
 
 .banner h1, .banner h2 {
     text-align: center;
-    color: #f1f1f1f1;
 }
 
 footer p {
